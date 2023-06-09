@@ -1,0 +1,15 @@
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\App.g.cs
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\Game_MarkupCompile.cache
+C:\Users\zemsk\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\zemsk\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\zemsk\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\MainWindow.g.cs
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\Game_MarkupCompile.lref
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\MainWindow.baml
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\Game.g.resources
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\zemsk\source\repos\Game\Game\obj\Debug\Game.pdb
